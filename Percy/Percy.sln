@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Percy", "Percy\Percy.csproj", "{200C1164-3CE0-49E4-9C76-B43C16E88BC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{200C1164-3CE0-49E4-9C76-B43C16E88BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200C1164-3CE0-49E4-9C76-B43C16E88BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200C1164-3CE0-49E4-9C76-B43C16E88BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200C1164-3CE0-49E4-9C76-B43C16E88BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BBF44A2-4FB8-4622-B7C8-ED2520E6FB34}
+	EndGlobalSection
+EndGlobal
